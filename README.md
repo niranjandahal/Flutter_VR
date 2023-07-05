@@ -5,11 +5,7 @@ A Flutter application that showcases virtual reality (VR) videos of various loca
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/yourusername/your-repo/blob/main/screenshots/screenshot1.png)
-
-![Screenshot 2](https://github.com/yourusername/your-repo/blob/main/screenshots/screenshot2.png)
-
-![Screenshot 3](https://github.com/yourusername/your-repo/blob/main/screenshots/screenshot3.png)
+![Screenshot 1](https://github.com/niranjandahal/Flutter_VR/flutter_01.png)
 
 ## Features
 
@@ -40,11 +36,11 @@ A Flutter application that showcases virtual reality (VR) videos of various loca
 
      flutter pub get
 
-#Contributing
+##Contributing
 
 Contributions are welcome! If you find any bugs or want to contribute new features, please follow these steps:
 
-#Fork the repository.
+##Fork the repository.
 
 Create a new branch for your feature/bug fix.
 Make your changes and test thoroughly.
@@ -54,11 +50,6 @@ Submit a pull request.
 
 Please make sure to follow our Code of Conduct and adhere to the Contributing Guidelines.
 
-#Issues
+##Issues
 
 If you encounter any issues or bugs with the application, please create a new issue on GitHub. Include a detailed description and steps to reproduce the problem.
-
-              
-
-
-
