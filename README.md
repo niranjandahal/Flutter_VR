@@ -5,7 +5,7 @@ A Flutter application that showcases virtual reality (VR) videos of various loca
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/niranjandahal/Flutter_VR/flutter_01.png)
+![Screenshot 1](https://github.com/niranjandahal/Flutter_VR/blob/main/flutter_01.png)
 
 ## Features
 
