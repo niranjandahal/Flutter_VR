@@ -37,10 +37,13 @@ A Flutter application that showcases virtual reality (VR) videos of various loca
 
    ```bash
    https://github.com/niranjandahal/Flutter_VR.git)https://github.com/niranjandahal/Flutter_VR.git
-    ```bash
+
+  ```bash
     flutter pub get
+              
      ```bash
      flutter run
+
 
 
 Contributing
