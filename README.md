@@ -1,16 +1,39 @@
-# r06placevr
+# VR Application flutter
+#Vr Home Section
 
-A new Flutter project.
+A Flutter application that showcases virtual reality (VR) videos of various locations. Users can explore different places in 360 degrees using VR videos.
+
+## Screenshots
+
+![Screenshot 1](https://github.com/yourusername/your-repo/blob/main/screenshots/screenshot1.png)
+
+![Screenshot 2](https://github.com/yourusername/your-repo/blob/main/screenshots/screenshot2.png)
+
+![Screenshot 3](https://github.com/yourusername/your-repo/blob/main/screenshots/screenshot3.png)
+
+## Features
+
+- Display a list of locations with corresponding VR videos.
+- Play VR videos using the YouTube Player Flutter package.
+- Toggle between 360-degree gyroscope mode and VR mode.
+- Pause and play the videos.
+- Navigate back to the home page.
+
+## Technologies Used
+
+- Flutter - Dart framework for building cross-platform applications.
+- YouTube Player Flutter package - Allows playing YouTube videos in Flutter apps.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Android/iOS emulator or physical device for running the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   https://github.com/niranjandahal/Flutter_VR.git)https://github.com/niranjandahal/Flutter_VR.git
