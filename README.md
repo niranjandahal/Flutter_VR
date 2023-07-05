@@ -37,3 +37,23 @@ A Flutter application that showcases virtual reality (VR) videos of various loca
 
    ```bash
    https://github.com/niranjandahal/Flutter_VR.git)https://github.com/niranjandahal/Flutter_VR.git
+
+
+
+
+
+
+
+Contributing
+Contributions are welcome! If you find any bugs or want to contribute new features, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature/bug fix.
+Make your changes and test thoroughly.
+Commit your changes with a descriptive commit message.
+Push your branch to your forked repository.
+Submit a pull request.
+Please make sure to follow our Code of Conduct and adhere to the Contributing Guidelines.
+
+Issues
+If you encounter any issues or bugs with the application, please create a new issue on GitHub. Include a detailed description and steps to reproduce the problem.
