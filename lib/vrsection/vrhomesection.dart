@@ -55,12 +55,12 @@ class _VrHomeSectionState extends State<VrHomeSection> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Vr Home Section'),
+        title: const Text('Vr Home Section'),
       ),
       body: GridView.builder(
-        physics: BouncingScrollPhysics(),
-        padding: EdgeInsets.all(16),
-        gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+        physics: const BouncingScrollPhysics(),
+        padding: const EdgeInsets.all(16),
+        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
           crossAxisCount: 2,
           crossAxisSpacing: 16,
           mainAxisSpacing: 16,
@@ -91,7 +91,7 @@ class _VrHomeSectionState extends State<VrHomeSection> {
                 children: [
                   Expanded(
                     child: ClipRRect(
-                      borderRadius: BorderRadius.vertical(
+                      borderRadius: const BorderRadius.vertical(
                         top: Radius.circular(8),
                       ),
                       child: Image.asset(
@@ -101,10 +101,10 @@ class _VrHomeSectionState extends State<VrHomeSection> {
                     ),
                   ),
                   Padding(
-                    padding: EdgeInsets.all(8),
+                    padding: const EdgeInsets.all(8),
                     child: Text(
                       place['name'],
-                      style: TextStyle(
+                      style: const TextStyle(
                         fontSize: 16,
                         fontWeight: FontWeight.bold,
                       ),

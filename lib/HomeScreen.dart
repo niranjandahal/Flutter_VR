@@ -23,7 +23,7 @@ class _HomepageState extends State<Homepage> {
     return Scaffold(
       body: IndexedStack(
         index: _selectedIndex,
-        children: [
+        children: const [
           // VR section
           VrHomeSection(),
 

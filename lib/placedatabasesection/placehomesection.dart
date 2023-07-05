@@ -12,9 +12,9 @@ class _PlaceHomeSectionState extends State<PlaceHomeSection> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Place Home Section'),
+        title: const Text('Place Home Section'),
       ),
-      body: Center(
+      body: const Center(
           child: Column(
         children: [
           Text(
