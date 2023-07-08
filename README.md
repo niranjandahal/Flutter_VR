@@ -50,6 +50,6 @@ Submit a pull request.
 
 Please make sure to follow our Code of Conduct and adhere to the Contributing Guidelines.
 
-##Issues
+## Issues
 
 If you encounter any issues or bugs with the application, please create a new issue on GitHub. Include a detailed description and steps to reproduce the problem.
