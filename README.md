@@ -1,7 +1,7 @@
 # VR Application flutter
 #Vr Home Section
 
-A Flutter application that showcases virtual reality (VR) videos of various locations. Users can explore different places in 360 degrees using VR videos.
+A Flutter application that showcases virtual reality (VR) videos of various locations. Users can explore different places in 360 degrees using VR videos.Initially it contains only popular places from nepal.
 
 ## Screenshots
 
@@ -36,11 +36,11 @@ A Flutter application that showcases virtual reality (VR) videos of various loca
 
      flutter pub get
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you find any bugs or want to contribute new features, please follow these steps:
 
-##Fork the repository.
+## Fork the repository.
 
 Create a new branch for your feature/bug fix.
 Make your changes and test thoroughly.
