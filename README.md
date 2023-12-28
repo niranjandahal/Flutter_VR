@@ -3,10 +3,9 @@
 
 A Flutter application that showcases virtual reality (VR) videos of various locations. Users can explore different places in 360 degrees using VR videos.Initially it contains only popular places from nepal.
 
-## Screenshots
+## Project Visual
 
 [![Youtube Video](https://img.youtube.com/vi/stOWEF2kBnE/0.jpg)](https://www.youtube.com/watch?v=stOWEF2kBnE)
-![Screenshot 1](https://github.com/niranjandahal/Flutter_VR/blob/main/project-two.png)
 ![Screenshot 1](https://github.com/niranjandahal/Flutter_VR/blob/main/project-two-s1.png)
 ![Screenshot 1](https://github.com/niranjandahal/Flutter_VR/blob/main/project-two-s2.jpg)
 
