@@ -5,7 +5,7 @@ A Flutter application that showcases virtual reality (VR) videos of various loca
 
 ## Screenshots
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Youtube Video](https://img.youtube.com/vi/stOWEF2kBnE/0.jpg)](https://www.youtube.com/watch?v=stOWEF2kBnE)
 ![Screenshot 1](https://github.com/niranjandahal/Flutter_VR/blob/main/project-two.png)
 ![Screenshot 1](https://github.com/niranjandahal/Flutter_VR/blob/main/project-two-s1.png)
 ![Screenshot 1](https://github.com/niranjandahal/Flutter_VR/blob/main/project-two-s2.jpg)
